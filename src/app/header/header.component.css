@@ -6,3 +6,12 @@
     color: white;
     background-color: #ff9A3A;
 }
+a{
+    color: #333;
+}
+a:hover{
+    color:#ff9A3A ;
+}
+.contact{
+    float: right;
+}
