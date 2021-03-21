@@ -20,11 +20,11 @@ export class HeaderComponent implements OnInit {
     
   }
   projects(){
-    this.router.navigateByUrl('contactme');
+    this.router.navigateByUrl('projects');
     
   }
   blog(){
-    this.router.navigateByUrl('contactme');
+    this.router.navigateByUrl('blog');
 
   }
 
